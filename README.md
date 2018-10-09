@@ -1,4 +1,4 @@
-# Chapter4 -> "Who owns your careeer":
+# Chapter4: "Who owns your careeer"
   * We should own our own career
   * We should use our won time and money to get better at what we do
   * If developers want to be treated as professionals, they should start acting as professionals
